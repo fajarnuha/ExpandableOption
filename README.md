@@ -5,6 +5,10 @@ This library is used to show a layout expandable with kind of header option like
 <img src="expandable_sample.gif?raw=true" alt="" width="240" />
 
 ## To Install
+Put this in your gradle
+
+```implementation 'com.tokopedia.tkpdlib:expandableoption:0.7.2'```
+
 See here
 https://bintray.com/tokopedia/maven/ExpandableOption
 
